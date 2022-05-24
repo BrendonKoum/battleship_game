@@ -1,0 +1,7 @@
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    background-color: lightgreen;
+}
+
+.grid-display {
